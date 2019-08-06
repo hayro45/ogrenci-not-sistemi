@@ -1,0 +1,71 @@
+﻿body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-repeat: repeat;
+    background-color: #eee;
+}
+
+.form-signin {
+    max-width: 440px;
+    padding: 8% 75px;
+    margin: 0px auto;
+    background-color: #dad8d8;
+    border-radius: 220px;
+}
+
+    .form-signin .form-signin-heading {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .form-signin .form-control {
+        height: auto;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+        .form-signin .form-control:focus {
+            z-index: 2;
+        }
+
+    .form-signin input[type="email"] {
+        margin-bottom: 5px;
+        border-radius: 25px;
+    }
+
+    .form-signin input[type="password"] {
+        margin-bottom: 5px;
+        border-radius: 25px;
+    }
+
+    .form-signin .buton1 {
+        margin-left: 5px;
+        margin-top: 20px;
+        border-radius: 25px;
+    }
+
+    .form-signin .buton2 {
+        margin-left: 5px;
+        margin-top: 20px;
+        border-radius: 25px;
+    }
+
+.bulur {
+    background-color: gray;
+    border-radius: 55px;
+    padding: 25px 5px;
+    max-width: 330px;
+    margin: 50px auto;
+    color: #dad8d8;
+}
+
+    .bulur a {
+        color: #dad8d8;
+    }
+
+        .bulur a:hover {
+            color: white;
+        }
